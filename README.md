@@ -1,5 +1,5 @@
 # CyberFront
-FPS Multiplayer 100% replicato (UnrealEngine)
+FPS Multiplayer 100% replicato (UnrealEngine Blueprints)
 
 ## IMPORTANTE
 I commit che sono segnati come "co-authored" sono stati creati a seguito di uno sviluppo condiviso, utilizzando il plugin "Multi User Editing" (plugin non consigliato).
@@ -53,7 +53,7 @@ I commit che sono segnati come "co-authored" sono stati creati a seguito di uno 
 # Assets
 **Gli assets sono tutti nella cartella "/Content/Assets" non versionati, importarli e spostarli tutti li per poterli utilizzare**
 
-- Armi: https://www.fab.com/listings/8aeb9c48-b404-4dcd-9e56-1d0ecedba7f5
+- Modelli Armi: https://www.fab.com/listings/8aeb9c48-b404-4dcd-9e56-1d0ecedba7f5
 - Mappa Stylized Egypt: https://www.fab.com/listings/c935ca3e-dbb1-4b7d-a080-65de129c60bd
 - Props pack: https://fab.com/s/e183defdb46b
 - Container: https://fab.com/s/d0233cbfd13a
