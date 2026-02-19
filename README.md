@@ -24,10 +24,11 @@ I commit che sono segnati come "co-authored" sono stati creati a seguito di uno 
 
 ### Partita
 - Sistema di modalità modulare tramite game handler (Deathmatch e FFA) facilmente estendibile
+- Posizione spawnpoints diversa per ogni mappa, modalità e team
 - HUD dinamico in base alla modalità
 - Animazioni custom per il movimento (walk, run, crouch, prone, ricarica, switch arma, reazione ad un colpo, morte)
 - Statistiche differenti per ogni arma (danno, cadenza di fuoco, tempo di ricarica, munizioni, forza rinculo, parametri di riscaldamento)
-- Sistema di classi per le armi con menù dedicato, visulizzazione delle statistiche di ogni arma e cambio della skin in gioco
+- Sistema di classi per le armi con menù dedicato, visulizzazione delle statistiche di ogni arma e cambio della skin in gioco con posizione di preview per ogni mappa
 - Suoni differenti per ogni arma
 - Rinculo procedurale
 - Respawn screen con animazione e info del killer
