@@ -5,6 +5,7 @@ FPS Multiplayer 100% replicato (UnrealEngine Blueprints)
 I commit che sono segnati come "co-authored" sono stati creati a seguito di uno sviluppo condiviso, utilizzando il plugin "Multi User Editing" (plugin non consigliato).
 
 ##
+- **Lingue:** Italiano, English
 - **Modalità:** Deathmatch, FFA
 - **Mappe:** Containers, Desert Castle, Stylized Egypt
 - **Armi:** M4, AK-47, AK-74U, AS-VAL, Cecchino
@@ -12,12 +13,15 @@ I commit che sono segnati come "co-authored" sono stati creati a seguito di uno 
 
 ## Funzionalità
 ### Menu
+- Autenticazione del giocatore tramite PlayFab (richiesta per giocare)
 - Menu impostazioni (volumi divisi per categoria, risoluzione, preset grafico ecc.) (sia nel menù principale, che in game con il tasto ESC)
+- Cambio lingua dell'intero gioco (Italiano, English)
 - Sistema di host della partita
 - Ricerca delle partite locali
 - Join in una partita tramite IP
 - Selezione della mappa (Containers, DesertCastle, Stylized Egypt)
 - Selezione della modalità (Deathmatch, FFA)
+- Selezione delle impostazioni di gioco (punti per vincere, vita dei giocatori)
 - Funzionalità di kick dalla lobby, per l'host
 - Sistema di pronto/non pronto, per iniziare la partita
 
