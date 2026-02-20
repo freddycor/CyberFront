@@ -1,5 +1,5 @@
 # CyberFront
-FPS Multiplayer 100% replicato (UnrealEngine Blueprints)
+FPS Multiplayer 100% replicato (UnrealEngine 5.6.1 Blueprints)
 
 ## IMPORTANTE
 I commit che sono segnati come "co-authored" sono stati creati a seguito di uno sviluppo condiviso, utilizzando il plugin "Multi User Editing" (plugin non consigliato).
@@ -67,7 +67,7 @@ I commit che sono segnati come "co-authored" sono stati creati a seguito di uno 
 - Suoni dei passi: https://fab.com/s/4abaf76a89a0
 
 ## Statistiche
-- Tempo di realizzazione: troppo (circa 350 ore di lavoro complessive)
+- Tempo di realizzazione: troppo (circa 400 ore di lavoro complessive)
 - Crash di Unreal Engine per i più disparati motivi: proprio troppi (almeno 15 al giorno) (non usate MultiUser Editing plugin)
 - Vita sociale: 0
 - Inveimenti: 10k+
